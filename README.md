@@ -1,2 +1,0 @@
-# InterAnima
-InterAnima Community Docs

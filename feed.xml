@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>InterAnima</title>
+    <link href="https://kunstkernewek.github.io/InterAnima/feed.xml" rel="self" />
+    <link href="https://kunstkernewek.github.io/InterAnima" />
+    <updated>2019-11-14T15:39:59+00:00</updated>
+    <author>
+        <name>Oliver</name>
+    </author>
+    <id>https://kunstkernewek.github.io/InterAnima</id>
+
+    <entry>
+        <title>test one</title>
+        <author>
+            <name>Oliver</name>
+        </author>
+        <link href="https://kunstkernewek.github.io/InterAnima/test-one.html"/>
+        <id>https://kunstkernewek.github.io/InterAnima/test-one.html</id>
+
+        <updated>2019-11-14T13:47:42+00:00</updated>
+            <summary>
+                <![CDATA[
+                    local local
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                local local
+            ]]>
+        </content>
+    </entry>
+</feed>
